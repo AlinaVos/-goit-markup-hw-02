@@ -61,11 +61,15 @@ ul, ol {
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #fff;
+        text-align: center;
 }
 .order-service-btn {
     background-color: #4d5ae5;
     color: #fff;
     cursor: pointer;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .order-service-btn:hover,
 .order-service-btn:focus {
@@ -113,6 +117,7 @@ ul, ol {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
+        text-align: center;
 }
 .team-list-item {
     background-color: #ffffff;
@@ -146,12 +151,13 @@ ul, ol {
 
 .portfolio-title {
     font-family: "Roboto", sans-serif;
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.1;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
+        text-align: center;
 }
 
 .portfolio-list-item {
@@ -179,6 +185,8 @@ ul, ol {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        line-height: 1.17;
+        
 }
 .logo-footer-part {
     color: #f4f4fd;
