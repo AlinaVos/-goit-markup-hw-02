@@ -55,7 +55,6 @@ ul, ol {
     background-color: #2e2f42;
 }
 .section-main-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -86,7 +85,6 @@ ul, ol {
 .benefits-list-item {}
 
 .benefits-list-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -95,11 +93,9 @@ ul, ol {
 }
 
 .benefits-list-text {
-    font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 
 /* /Benefit section styles */
@@ -110,7 +106,6 @@ ul, ol {
 }
 
 .section-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -124,7 +119,6 @@ ul, ol {
 }
 
 .team-name {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -134,8 +128,6 @@ ul, ol {
 }
 
 .team-profession {
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -150,10 +142,9 @@ ul, ol {
 }
 
 .portfolio-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
-        font-size: 20px;
-        line-height: 1.2;
+        font-size: 36px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
@@ -161,7 +152,6 @@ ul, ol {
 }
 
 .portfolio-name {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -170,12 +160,9 @@ ul, ol {
 }
 
 .portfolio-text {
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 
 /* Footer styles */
@@ -197,8 +184,6 @@ ul, ol {
     color: #f4f4fd;
 }
 .page-footer-text {
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
